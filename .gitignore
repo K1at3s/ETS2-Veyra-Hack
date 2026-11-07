@@ -1,0 +1,11 @@
+/build/
+/out/
+/.vs/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.dmp
+*.log
+settings.ini
+__pycache__/
